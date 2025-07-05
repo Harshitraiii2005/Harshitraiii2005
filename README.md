@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SmartFraudX<br><br>🌱 I’m currently learning Kubernets<br><br>👨‍💻 All of my projects are available at https://github.com/Harshitraiii2005<br><br>💬 Ask me about MLOps, Machine Learning, Streamlit, and FastAPI<br><br>📫 How to reach me upharshi2005@gmail.com<br><br>
+🔭 I’m currently working on SmartDoc Extractor<br><br>🌱 I’m currently learning Kubernets<br><br>👨‍💻 All of my projects are available at https://github.com/Harshitraiii2005<br><br>💬 Ask me about MLOps, Machine Learning, Streamlit, and FastAPI<br><br>📫 How to reach me upharshi2005@gmail.com<br><br>
 
 
 ## 🌐 Socials:
