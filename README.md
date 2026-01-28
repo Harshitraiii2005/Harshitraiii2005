@@ -12,7 +12,7 @@ I build **CI/CD pipelines, ML workflows, and GitOps deployments** using Python, 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-rai-5b91142a8/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshhiittttt)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/haarssshhhhiiitttttt?igsh=MWs4am1lcGphN2cweQ==)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upharshi2005@gmail.com)  
 
 ---
