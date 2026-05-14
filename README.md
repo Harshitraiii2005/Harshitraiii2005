@@ -4,7 +4,7 @@
 I build **CI/CD pipelines, ML workflows, and GitOps deployments** using Python, Jenkins, Docker, Kubernetes, ArgoCD, MLflow, and Prefect.  
 
 💬 Ask me about **DevOps, MLOps, GitOps, Machine Learning, Streamlit, FastAPI, and Cloud deployments**.  
-📫 Reach me at: [upharshi2005@gmail.com](mailto:upharshi2005@gmail.com)  
+📫 Reach me at: [dev.harshitrai@gmail.com](mailto:dev.harshitrai@gmail.com)  
 🌐 Projects: [GitHub Profile](https://github.com/Harshitraiii2005)
 
 ---
