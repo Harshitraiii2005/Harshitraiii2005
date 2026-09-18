@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Harshit+Rai+%F0%9F%91%8B;AI%2FML+%7C+LLM+%7C+RAG+%7C+Agentic+AI+Engineer;MLOps+%7C+DevOps+%7C+GitOps+Practitioner;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Harshit+Rai+%F0%9F%91%8B;Full-Stack+AI+Engineer+%7C+Agentic+AI+%7C+RAG%2FLLM;AI+Quality+Engineer+%40+Smarter.Codes;Go+%7C+Rust+%7C+Python+%7C+TypeScript+%7C+Kubernetes" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full--Stack%20AI%2FML%20Engineer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=00F0FF" />
-<img src="https://img.shields.io/badge/MLOps%20%7C%20DevOps%20%7C%20GitOps-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=FF6EC7" />
+<img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=00F0FF" />
+<img src="https://img.shields.io/badge/16%2B%20Systems%20Shipped-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=FF6EC7" />
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ashen-six-16.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-rai-5b91142a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitrai20)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.harshitrai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitraiii2005)
 
@@ -24,17 +24,34 @@
 ```yaml
 engineer:
   name: "Harshit Rai"
-  focus: ["AI/ML Engineering", "LLMs & Agentic AI", "MLOps", "DevOps", "GitOps"]
-  currently_building:
-    - RAG & Advanced-RAG pipelines with hybrid retrieval + re-ranking
-    - Agentic AI systems with multi-provider LLM orchestration & MCP tool-calling
-    - Polyglot backends: Go (orchestration/IO) + Python (ML/inference)
-    - CI/CD & GitOps workflows: Jenkins → Docker → K8s → ArgoCD
-  philosophy: "Ship from scratch to production — no shortcuts, no hallucinations."
-  status: "Actively building. Actively shipping. Actively learning."
+  location: "Delhi, India"
+  current_role: "AI Quality Engineer @ Smarter.Codes"
+  focus: ["Full-Stack AI Engineering", "Agentic AI", "RAG/LLM", "MLOps", "DevOps/GitOps"]
+  backend_languages: ["Python", "Go", "Rust", "TypeScript"]
+  stats:
+    systems_shipped: "16+"
+    eval_coverage: "85-90%"
+    review_time_cut: "30-40%"
+  philosophy: "Own the model, the backend, and the infra it runs on — not a prompt-and-pray builder."
 ```
 
-I design and ship **end-to-end AI systems** — from model inference and retrieval pipelines to the infrastructure that deploys, monitors, and scales them. My work spans the full stack: **LLMs, RAG/Advanced-RAG, Agentic AI, Deep Learning, MLOps, and cloud-native DevOps/GitOps**, built with a polyglot toolkit of **Python, Go, Rust, and TypeScript/JavaScript**.
+I'm a **Full-Stack AI Engineer** based in Delhi, India. My range runs the full width of the stack — classic ML, fine-tuned LLMs and RAG, multi-agent and agentic automation workflows — all sitting on a backend I write myself in **Python, Go, Rust, and TypeScript**, deployed as real microservices on **Kubernetes** with actual CI/CD, not a demo notebook.
+
+That range shows up in what I ship: a deterministic **Go** policy gate deciding real payments, a **Rust**-core DevOps agent doing causal root-cause analysis, a vectorless RAG engine with zero required dependencies, and multi-agent **LangGraph** pipelines gated behind eval harnesses before they're trusted with production traffic.
+
+The lens I bring to all of it is **quality-first** — golden datasets, error taxonomies, and benchmark harnesses that tell you whether a system is actually good, not just whether it runs.
+
+---
+
+## 💼 Currently
+
+```text
+🏢 Working      → AI Quality Engineer @ Smarter.Codes — LLM eval pipelines, RAG stress-testing, benchmarking
+🔭 Building     → Agentic automation systems, policy-gated LLM workflows, Go/Rust backend services
+🌱 Deepening    → Hybrid RAG + rerank, multi-agent orchestration (LangGraph/Temporal/MCP), gRPC polyglot systems
+🎯 Targeting    → Full-Stack AI/ML, MLOps, AI Platform & DevOps Engineering roles
+💬 Ask me about → RAG pipelines, LLM infra & evals, agentic workflows, Kubernetes/ArgoCD, Go + Rust + Python systems design
+```
 
 ---
 
@@ -65,11 +82,13 @@ I design and ship **end-to-end AI systems** — from model inference and retriev
 <td>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Temporal-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pinecone-0A0A23?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20%2F%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-3C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cross--Encoder%20Rerank-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/BM25%20Hybrid%20Search-333333?style=flat-square"/>
@@ -77,7 +96,7 @@ I design and ship **end-to-end AI systems** — from model inference and retriev
 </tr>
 
 <tr>
-<td><b>🔁 MLOps</b></td>
+<td><b>🔁 MLOps / Evals</b></td>
 <td>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prefect-5B21B6?style=flat-square"/>
@@ -86,7 +105,8 @@ I design and ship **end-to-end AI systems** — from model inference and retriev
 <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
 <img src="https://img.shields.io/badge/BentoML-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eval%20Harnesses-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Golden%20Datasets-333333?style=flat-square"/>
 </td>
 </tr>
 
@@ -134,57 +154,87 @@ I design and ship **end-to-end AI systems** — from model inference and retriev
 
 ---
 
-## 🚀 Featured Systems
+## 🚀 Flagship Systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 Legal Contract Pipeline
-Distributed document-intelligence platform for automated contract risk analysis.
-- **Go/Fiber** gateway + **Node/TS BullMQ** worker + **React/Vite** frontend
-- **Postgres + Redis**, RAG-calibrated risk scoring (LLM + retrieval blend)
-- Vector search via **Pinecone**, object storage via **Cloudflare R2**
-- `Go` `TypeScript` `Postgres` `Redis` `Pinecone` `Groq`
+### 🌳 treehash — Vectorless RAG Engine
+Parses documents into a hashed address tree and resolves most queries by direct O(1)-average lookup — **no embeddings, no vector index required**.
+- Falls back to BM25 full-text search only when structural resolution misses, with an optional semantic tier gated behind both failing first
+- Cut parsing/indexing-stage timeouts by **95%** by tracing and fixing a page-cache memory leak in the PDF parser
+- Hash-chained audit trail + per-query token accounting; published to PyPI as `treehash-rag`
+- **Zero Vector DB · 92% Accuracy · 95% Fewer Timeouts · PyPI Published**
+
+`Python` `SQLite (FTS5)` `PostgreSQL` `BM25` `FastAPI` `MCP` `Docker`
+
+**[↗ Live App](https://treehasg-rag.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ DevOps Helpdesk Autonomous Agent
-Autonomous agent for triaging and resolving DevOps support tickets.
-- **FastAPI** backend + **React/Vite/TS** frontend
-- LLM-driven ticket classification & response generation
-- CI/CD via Render + Vercel split deployment
-- `Python` `FastAPI` `React` `TypeScript`
+### 💸 AP Autopilot — Accounts Payable Automation
+Separates reasoning from authority — LLMs extract invoice data only; a **deterministic Go policy gate** makes every payment decision.
+- 94.2% field-extraction accuracy with a **0% false-approval rate**
+- Auto-approves low-risk invoices in ~0.5s, escalates the rest to named approvers
+- Hash-chained, replayable audit ledger on durable Temporal workflows that survive restarts
+- **0% False-Approval · 94.2% Extraction · Bounded Autonomy**
+
+`Temporal` `Go` `PostgreSQL` `Next.js` `MCP` `QuickBooks/Xero/NetSuite/Stripe`
+
+**[↗ Live App](https://autopilot-ai-gilt.vercel.app/)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 VeriFact AI (IntelliAssist)
-Research-grade RAG platform with hybrid retrieval and grounded generation.
-- **FAISS + BM25Okapi** hybrid retrieval, cross-encoder re-ranking
-- Groq-based LLM inference (migrated off local GPT-2/LoRA for scalability)
-- Whisper ASR + TTS pipeline; Python/FastAPI backend, Node frontend
-- Active migration to **Go** for orchestration via **gRPC** service boundary
-- `Python` `Go` `gRPC` `FAISS` `Whisper`
+### 🔍 VeriFact AI — Zero-Hallucination RAG
+Answers strictly from the user's own documents — a verbatim quote or an honest **"I don't know,"** never an invented answer.
+- Confidence-scored hybrid retrieval benchmarked on 94 real questions
+- Per-user isolation and encryption at rest for multi-tenant use
+- Modular, MIT-licensed retrieval core kept cleanly separable from the product shell
+- **Zero Hallucination · 94-Q Benchmark · Multi-Tenant**
+
+`Hybrid Retrieval` `Multi-Tenant Isolation` `Encryption at Rest` `MIT Core`
+
+**[↗ Live App](https://verti-fact-ai-frontend.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Devintel-AI
-Developer intelligence platform with async job processing.
-- **FastAPI + Next.js**, **Postgres + Valkey/Redis**, **RQ** worker
-- Solved cross-cutting auth/CORS failures at the dependency layer
-- `Python` `Next.js` `Redis` `Postgres`
+### 🛡️ Sentryops — Autonomous DevOps Agent
+**Rust**-core agent that discovers Kubernetes pods, runs multi-endpoint health checks, and auto-files tickets the moment a service degrades.
+- Clusters raw logs into causal dependency graphs; an LLM diagnoses root cause and proposes remediation ranked by actual cause, not symptom
+- Auto-resolves known-safe errors behind an **OPA-style default-deny policy gate**
+- Correlation-ID audit trails on every decision
+- **Rust Core · Causal RCA · Default-Deny Gate**
+
+`Rust` `Go SDK` `Kubernetes` `OPA-style Policy` `Groq` `MCP`
+
+**[↗ Live App](https://sentryops-1.onrender.com/index.html)**
 
 </td>
 </tr>
 </table>
 
-> 🔗 **Explore the full build breakdowns, live demos, and case studies on my portfolio:**
+> 🔗 **Explore all 16 build breakdowns, live demos, and full case studies on my portfolio:**
 > ### [→ portfolio-ashen-six-16.vercel.app](https://portfolio-ashen-six-16.vercel.app/)
+
+---
+
+## 🗂️ More Live Systems
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Legal Contract Pipeline** | 5-agent LangGraph workflow for automated contract risk review, RAG-grounded in precedent via Pinecone, gated on a 60%+ eval accuracy threshold | LangGraph · FastAPI · Pinecone · PostgreSQL · Celery/Redis · React | [↗ live](https://legal-contract-pipeline-1.onrender.com/) · [↗ code](https://github.com/Harshitraiii2005/legal-contract-pipeline) |
+| **DevOps Helpdesk Autonomous Agent** | Autonomous agent that plans, calls tools, and reasons over runbooks/live alerts; tiered human-in-the-loop safety guard | Python · FastAPI · Vector Store · Kubernetes | [↗ live](https://dev-ops-helpdesk-autonomous-agent.vercel.app/) · [↗ code](https://github.com/Harshitraiii2005/DevOps-Helpdesk-Autonomous-Agent) |
+| **DevIntel AI** | Monitors competitor URLs on a schedule, detects changes via SHA-256 hashing, generates LLM intelligence reports (Slack/Email/Webhook delivery) | FastAPI · Next.js · PostgreSQL · Redis · Playwright | [↗ live](https://devintel-ai.vercel.app/login) · [↗ code](https://github.com/Harshitraiii2005/Devintel-AI) |
+| **Indic NLP Microservice** | Multilingual sentiment (5-star BERT) + zero-shot topic classification (mDeBERTa) for English/Hindi/Hinglish, K8s + HPA autoscaling | BERT · mDeBERTa · Kubernetes · AWS | [↗ live](http://98.91.209.242/) · [↗ code](https://github.com/Harshitraiii2005/Sentiment-Analysis-Text-Classification-Microservice) |
+| **HireSparkAI** | Dual RAG pipelines for freshers vs. experienced hires — explainable matching, interview question generation, resume optimization | FAISS · LangChain · ArgoCD · Jenkins | [↗ live](http://ec2-54-224-77-144.compute-1.amazonaws.com:31926/) · [↗ code](https://github.com/Harshitraiii2005/HIRESPARK-AI) |
+| **IntelliAssist — RAG Assistant** | Fine-tuned GPT-2 + LoRA RAG system, hybrid FAISS+BM25 search, cross-encoder reranking, 96% eval pass rate | PyTorch · Hugging Face · FAISS · LoRA · Whisper | [↗ code](https://github.com/Harshitraiii2005/intelliassist-rag-gpt2) |
+| **Python Q&A Assistant** | RAG grounded in 50k Stack Overflow pairs, MiniLM embeddings, ChromaDB retrieval, ~700ms avg latency | ChromaDB · Sentence-Transformers · Groq | [↗ live](https://xlm5bw51-5001.inc1.devtunnels.ms/) · [↗ code](https://github.com/Harshitraiii2005/Python-Q-A-Assistant) |
 
 ---
 
@@ -192,25 +242,14 @@ Developer intelligence platform with async job processing.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitraiii2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitraiii2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshitraiii2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitraiii2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitraiii2005&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitraiii2005&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitraiii2005&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitraiii2005&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-## 🧭 Currently
-
-```text
-🔭 Building     → Job-application automation engine (Go, SerpApi, LLM relevance scoring, Gmail API)
-🌱 Deepening    → Advanced RAG (hybrid + rerank), Agentic AI orchestration, gRPC polyglot systems
-🎯 Targeting    → Full-Stack AI/ML, MLOps, AI Platform & DevOps Engineering roles
-💬 Ask me about → RAG pipelines, LLM infra, MLOps, Kubernetes/ArgoCD, Go + Python systems design
-```
 
 ---
 
@@ -219,7 +258,7 @@ Developer intelligence platform with async job processing.
 ### 📫 Let's Build Something
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--ashen--six--16.vercel.app-00F0FF?style=for-the-badge)](https://portfolio-ashen-six-16.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--rai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-rai-5b91142a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitrai20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitrai20)
 [![Gmail](https://img.shields.io/badge/dev.harshitrai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.harshitrai@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=harshitraiii2005&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS"/>
